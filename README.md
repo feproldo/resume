@@ -16,11 +16,11 @@ E-mail: feproldo@gmail.com | Telegram: @feproldo | GitHub: github.com/feproldo
 ## 🛠️ Навыки
 
 - Языки: **TypeScript**, JavaScript, **Rust**, C++, C#, HTML, CSS
-- Backend: **Node.js (Express.js)**, **Rust (Actix-web, Maud, SQLx)**
+- Backend: **Node.js (Express.js, nest.js)**, **Rust (Actix-web, Maud, SQLx)**
 - Frontend: Nuxt.js (Vue 2/3), SSR, basic VueX
 - Базы данных: PostgreSQL, MongoDB
-- DevOps: Git, GitHub Actions (начальный уровень), systemd, apache
-- Прочее: опыт работы с SSR, REST API, формами, загрузкой файлов, админками
+- DevOps: Git, systemd, apache
+- Прочее: опыт работы с SSR, REST API, формами, загрузкой файлов, админками, linux
 
 ---
 
