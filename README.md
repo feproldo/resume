@@ -58,7 +58,7 @@ E-mail: feproldo@gmail.com | Telegram: @feproldo | GitHub: github.com/feproldo
 
 ## 📂 Pet-проекты
 
-_(в процессе публикации на GitHub)_
+_(в процессе разработки и публикации на GitHub)_
 
 - Мини-блог на Rust (Actix-web + PostgreSQL)
 - Трекер задач на Nuxt + Rust API
