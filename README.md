@@ -62,8 +62,7 @@ E-mail: feproldo@gmail.com | Telegram: @feproldo | GitHub: github.com/feproldo
 _(в процессе разработки и публикации на GitHub)_
 
 - Мини-блог на Rust (Actix-web + PostgreSQL)
-- Трекер задач на Nuxt + Rust API
-- Прототип приложения с авторизацией, SSR и загрузкой изображений
+- [Процессный менеджер на rust](https://github.com/feproldo/process-manager)
 
 ---
 
