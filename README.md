@@ -43,7 +43,7 @@ E-mail: feproldo@gmail.com | Telegram: @feproldo | GitHub: github.com/feproldo
 
 > ✅ Проект сдан. Получена оплата. Длительность: 2-3 недели.
 > 🔒 Исходники частично доступны (по запросу).
-> 📂 Доступен по адресу https://бузмакова.рф/
+> 📂 Доступен по адресу https://бузмакова.рф/ ( временно на https://buzmakova-oa.ru/)
 
 ---
 
@@ -62,7 +62,7 @@ E-mail: feproldo@gmail.com | Telegram: @feproldo | GitHub: github.com/feproldo
 _(в процессе разработки и публикации на GitHub)_
 
 - Мини-блог на Rust (Actix-web + PostgreSQL)
-- [Процессный менеджер на rust](https://github.com/feproldo/process-manager)
+- [Процессный менеджер на Rust](https://github.com/feproldo/process-manager)
 
 ---
 
